@@ -1,0 +1,16 @@
+# Environment: Python 3.10
+python=3.10
+
+# UI and Visualization Libraries
+streamlit
+plotly
+matplotlib
+
+# Data Manipulation and Analysis Libraries
+pandas
+
+# Time Series Forecasting Library
+prophet
+
+# Excel File Handling Library
+openpyxl
