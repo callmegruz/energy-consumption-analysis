@@ -61,10 +61,9 @@ Assignment/
 
 
 ## Usage
-1. Run data_prep.ipynn for loading, preparing and cleaning data.
+1. Run data_prep.ipynb for loading, preparing and cleaning data.
 2. Run eda_power.ipynb for Exploratory Data Analysis and Outlier test
-3. Run prophet_forecast_model for building the forecast model
-
+3. Run prophet_forecast_model.ipynb for building the forecast model
 4.  **Run the application from the root directory:**
     ```bash
     streamlit run dashboard.py
